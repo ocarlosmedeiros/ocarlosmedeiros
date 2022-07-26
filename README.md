@@ -1,4 +1,4 @@
-### Oi, eu sou o Carlos, jovem com um interesse significativo por programação 👾
+### Oi, eu sou o Carlos, um jovem com um interesse significativo por programação 👾
 
 
 - 🌱 Aprendendo JavaScript e Python
@@ -9,8 +9,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ocarlosmedeiros&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocarlosmedeiros&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
-  ##
   
   <p align="center"><br>
   <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
