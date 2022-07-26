@@ -1,4 +1,4 @@
-### Oi, eu sou o Carlos, um jovem com um interesse significativo por programação 👾
+### Oi, eu sou o Carlos, um jovem com um interesse por programação 👾
 
 
 - 🌱 Aprendendo JavaScript e Python
